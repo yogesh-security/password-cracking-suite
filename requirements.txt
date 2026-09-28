@@ -1,0 +1,6 @@
+# Password Cracking & Credential Attack Suite
+# No external dependencies required – pure Python standard library.
+
+# Optional (for future enhancements):
+# colorama>=0.4.6
+# rich>=13.0.0
